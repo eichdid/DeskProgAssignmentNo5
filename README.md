@@ -7,3 +7,5 @@ Build and run.
 Executable on /dist.
 
 Master Password is 909090.
+
+SQLite Library Included.
